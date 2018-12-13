@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    background-image: url("img/ales-nesetril-734016-unsplash.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    height: 970px;
+    width: 100%;
+    background-position: center;
+}
+
+.header {
+    float: right;
+    display: flex;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.header li {
+    list-style-type: none;
+    display: inline;
+    
+}
+
+.header li a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+div {
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-size: 5em;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  
+}
+
+h3 {
+    color: white;
+    font-size: 2.5em;
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+    
+}
